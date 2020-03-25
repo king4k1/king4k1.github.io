@@ -1,0 +1,106 @@
+I"�<h1 id="employment">Employment</h1>
+<ul>
+  <li>Hana Bank, Customer Big Data Center
+    <ul>
+      <li>Data Scientist. Aug 2019 - Present</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="education">Education</h1>
+<ul>
+  <li>Department of Statistics, Hankuk University of Foreign Studies (HUFS)
+    <ul>
+      <li>Bachelor of Statistics. Mar 2012 - Feb 2018</li>
+    </ul>
+  </li>
+  <li>Department of Statistics, Sungkyunkwan University (SKKU)
+    <ul>
+      <li>Master of Statistics. Mar 2018 - Feb 2020</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="research-interests">Research Interests</h1>
+<ul>
+  <li>Predictive Modeling
+    <ul>
+      <li>Latest algorithms</li>
+      <li>Statistical Modeling</li>
+    </ul>
+  </li>
+  <li>Deep Learning and Machine Learning
+    <ul>
+      <li>Image Processing</li>
+      <li>Text Analysis, Sentiment Analysis, Natural Language Processing</li>
+    </ul>
+  </li>
+  <li>Applications
+    <ul>
+      <li>Recommendation Systems</li>
+      <li>Explainable, Interpretable AI</li>
+      <li>Deployment of ML model(Django, Flask, Shiny)</li>
+    </ul>
+  </li>
+  <li>Data visualization</li>
+</ul>
+
+<h1 id="research-experiences">Research Experiences</h1>
+<ul>
+  <li>Industrial Statistics Lab at SKK Univ. (2018.6 ~ 2019.07), Advisor. Youngdeok Hwang
+    <ul>
+      <li>Demand Prediction of a Newly Scheduled Line Using The Passengers’ Getting On and Off Data : Focused on Gangbuk Crossing Line</li>
+      <li>Development of personalized care ICT platform for chronic metabolic disease</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="work-experiences">Work Experiences</h1>
+<ul>
+  <li>Research &amp; Develop, Hana Bank, Seoul, South Korea (2019.08 ~)
+    <ul>
+      <li>해외송금 소요시간 예측
+        <ul>
+          <li>외국환 송금관련 GPI데이터를 이용한 송금 소요시간 예측모델 개발</li>
+          <li>국가별 휴일정보 라이브러리 제작(윤년, 음력 등 고려)</li>
+          <li>실시간 서비스 운영</li>
+        </ul>
+      </li>
+      <li>대용량 금융활동자료를 이용한 적금상품 가입예측
+        <ul>
+          <li>손님 금융 활동정보를 이용한 대용량 자료분석</li>
+          <li>자료 전처리 및 최신 머신러닝 예측 알고리즘(catboost, lgbm, xgboost, random forest 등) 적용</li>
+          <li>Interpretable ML(pdp, lime)</li>
+        </ul>
+      </li>
+      <li>손님만족조사(VoC) 자료를 활용한 텍스트분석
+        <ul>
+          <li>한국어 형태소 분석 및 딥러닝 알고리즘 LSTM, GRU 등을 활용한 Sentiment Classification 및 긍부정 영향요인 분석</li>
+          <li>부정민원 해당 토픽모델링 및 추세별 지점관리, EDA</li>
+        </ul>
+      </li>
+      <li>한글 필기체 인식 모형 개발 및 실시간 서비스화
+        <ul>
+          <li>OpenCV를 활용한 이미지 프로세싱을 이용한 이상치검출모형 개발</li>
+          <li>딥러닝을 활용한 한글 필기체 인식 모형 개발 및 실시간 서비스</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="papers">Papers</h1>
+<ul>
+  <li>손광민, “지하철 이용객 개별 승하차 데이터를 이용한 신설예정노선 수요예측 : 강북횡단선을 중심으로” 성균관대학교 (2020)</li>
+  <li>손광민, 방준아. “지하철 이용객 개별 승하차 데이터를 이용한 지하철 혼잡도 추정” 한국통계학회 포스터 (2019)</li>
+  <li>방준아,손광민,이소정,이현근,조수빈.  “서울 치킨집 폐업 예측 모형 개발 연구” 한국빅데이터학회 학회지 VOL.3 NO.2 (2018):35-49</li>
+</ul>
+
+<h1 id="programming-skills">Programming Skills</h1>
+<ul>
+  <li>Python, Tensorflow</li>
+  <li>R, Rstudio</li>
+  <li>A little Web programming skills &amp; JAVA</li>
+</ul>
+
+:ET
