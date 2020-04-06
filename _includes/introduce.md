@@ -50,5 +50,4 @@
 - [COVID-19 Case Study](https://github.com/king4k1/COVID-19)
 
 # misc
-- dacon, kaggle
 
