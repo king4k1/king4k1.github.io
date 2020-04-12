@@ -49,5 +49,9 @@
 # Posts
 - [COVID-19 Case Study](https://github.com/king4k1/COVID-19)
 
+# Honors
+- 공로상, Hankuk University of Foreign Studies, 2018
+ 
+
 # misc
 
