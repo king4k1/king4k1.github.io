@@ -30,6 +30,8 @@
 
 # Work Experiences
 - Research & Develop, Hana Bank, Seoul, South Korea
+        - Business process mining using log data
+        - Development of overseas remittance time prediction model
 	- Development of recommended model for savings products
 	- 2019 Hana Bank report made through big data 
 	- Text analysis using customer satisfaction survey (VoC) data
@@ -52,6 +54,9 @@
 # Honors
 - 공로상, Hankuk University of Foreign Studies, 2018
  
+# Patent
+- AI필체인식모형
+- AI해외송금소요시간예측모형
 
 # misc
 
