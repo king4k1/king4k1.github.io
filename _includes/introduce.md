@@ -30,8 +30,13 @@
 
 # Work Experiences
 - Research & Develop, Hana Bank, Seoul, South Korea
-        - Business process mining using log data
-        - Development of overseas remittance time prediction model
+
+        - Business strategy planning support
+		* Retail Marketing Support and My Data Business Preparation
+		* Planning mid- to long-term roadmap and direction plan (milestone)
+        - Loan Limit Estimation Model Using Baemin Data
+	- Business process mining using log data from employees
+        - Development of overseas remittance time prediction model(88 banks in 18 countries)
 	- Development of recommended model for savings products
 	- 2019 Hana Bank report made through big data 
 	- Text analysis using customer satisfaction survey (VoC) data
@@ -55,8 +60,8 @@
 - 공로상, Hankuk University of Foreign Studies, 2018
  
 # Patent
-- AI필체인식모형
-- AI해외송금소요시간예측모형
+- "AI필체인식모형"
+- "AI해외송금소요시간예측모형"
 
 # misc
 
