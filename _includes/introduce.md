@@ -30,7 +30,6 @@
 
 # Work Experiences
 - Research & Develop, Hana Bank, Seoul, South Korea
-
         - Business strategy planning support
 		* Retail Marketing Support and My Data Business Preparation
 		* Planning mid- to long-term roadmap and direction plan (milestone)
