@@ -36,17 +36,17 @@
 		2. Planning mid- to long-term roadmap and direction plan (milestone)
 
 
-	- Developed credit rating for Soho Commerce by the Korea Financial Services Agency(~ing) 
+	- Development credit rating for SOHO Commerce by the Korea Financial Services Agency(~ing) 
 
 	- Loan Limit Estimation Model Using Baemin Data(~ing)
 
-	- Business process mining using log data from employees
+	- Business Process Mining using Log Data from Employees
 
-	- Development of overseas remittance time prediction model(88 banks in 18 countries)
+	- Development of Overseas Remittance Time Prediction Model(88 banks in 18 countries)
 
-	- Development of recommended model for savings products
+	- Development of Recommended Model for Savings Products
 
-	- 2019 Hana Bank report made through big data 
+	- 2019 Hana Bank report made through Big Data 
 
 	- Text analysis using customer satisfaction survey (VoC) data
 
