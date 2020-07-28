@@ -30,14 +30,15 @@
 
 # Work Experiences
 - Research & Develop, Hana Bank, Seoul, South Korea
-
-        - Business strategy planning support: Retail Marketing Support and My Data Business Preparation, Planning mid- to long-term roadmap and direction plan (milestone)
+        - Business strategy planning support
+		* Retail Marketing Support and MyData Business Preparation
+        	* Planning mid- to long-term roadmap and direction plan (milestone)
 
         - Loan Limit Estimation Model Using Baemin Data
 
 	- Business process mining using log data from employees
 
-        - Development of overseas remittance time prediction model(88 banks in 18 countries)
+	- Development of overseas remittance time prediction model(88 banks in 18 countries)
 
 	- Development of recommended model for savings products
 
