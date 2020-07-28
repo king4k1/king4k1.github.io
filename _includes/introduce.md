@@ -33,7 +33,9 @@
 
 	- Business strategy planning support
 		* Retail Marketing Support and MyData Business Preparation
+
         	* Planning mid- to long-term roadmap and direction plan (milestone)
+
 
 	- Developed credit rating for Soho Commerce by the Korea Financial Services Agency(~ing) 
 
