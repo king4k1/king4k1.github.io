@@ -38,7 +38,6 @@
 
 	- Developed credit rating for Soho Commerce by the Korea Financial Services Agency(~ing) 
 
-
 	- Loan Limit Estimation Model Using Baemin Data(~ing)
 
 	- Business process mining using log data from employees
