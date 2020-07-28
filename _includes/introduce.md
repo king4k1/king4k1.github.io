@@ -32,12 +32,12 @@
 - Research & Develop, Hana Bank, Seoul, South Korea
 
 	- Business strategy planning support
-		* Retail Marketing Support and MyData Business Preparation
-
-        	* Planning mid- to long-term roadmap and direction plan (milestone)
+		1. Retail Marketing Support and MyData Business Preparation 
+		2. Planning mid- to long-term roadmap and direction plan (milestone)
 
 
 	- Developed credit rating for Soho Commerce by the Korea Financial Services Agency(~ing) 
+
 
         - Loan Limit Estimation Model Using Baemin Data(~ing)
 
