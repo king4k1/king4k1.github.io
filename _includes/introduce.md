@@ -35,6 +35,9 @@
 		1. Retail Marketing Support and MyData Business Preparation 
 		2. Planning mid- to long-term roadmap and direction plan (milestone)
 
+	- Development of churn prediction model to increase Hana One Q MAU
+		1. Target group selection according to marketing importance using clustering
+		2. Differential marketing method proposal according to the type of departure
 
 	- Development credit rating for SOHO Commerce by the Korea Financial Services Agency(~ing) 
 
