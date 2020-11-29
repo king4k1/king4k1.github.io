@@ -39,7 +39,7 @@
 		1. Target group selection according to marketing importance using clustering
 		2. Differential marketing method proposal according to the type of churn & using pattern
 
-	- Analysis of core customer behavior
+	- Analysis about core customer's behavior
 		1. Omni channel comparative analysis
 		2. Profiling analysis
 		3. Explanatory data analysis
