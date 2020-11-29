@@ -21,7 +21,7 @@
 	- Explainable, Interpretable AI
 	- Deployment of ML model(Django, Flask, Shiny)
 - Data visualization
-
+- Statistical Analysis
 
 # Research Experiences
 + Industrial Statistics Lab at SKK Univ. (2018.6 ~ 2019.07), advised by Prof. Youngdeok Hwang
@@ -38,6 +38,11 @@
 	- Development of churn prediction model to increase Hana OneQ MAU
 		1. Target group selection according to marketing importance using clustering
 		2. Differential marketing method proposal according to the type of churn & using pattern
+
+	- Analysis of core customer behavior
+		1. Omni channel comparative analysis
+		2. Profiling analysis
+		3. Explanatory data analysis
 
 	- Development credit rating for SOHO Commerce by the Korea Financial Services Agency(~ing) 
 
